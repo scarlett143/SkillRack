@@ -1,5 +1,5 @@
 import java.util.*;
-public class Exercise1{
+public class PositiveorNegativeNumber{
   public static void main(String[] args){
     
     Scanner input= new Scanner(System.in);
